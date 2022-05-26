@@ -1,0 +1,111 @@
+.jumbotron{
+    color: turquoise;
+}
+.navbar{
+    padding: 1rem;
+    color: turquoise;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.thanks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.social-links{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px;
+    
+
+}
+
+.c1{
+    color: turquoise;
+}
+.whatsapp{
+    color: green;
+    
+}
+.instagram{
+    color: palevioletred;
+
+}
+.github{
+    color: white;
+    
+}
+.youtube{
+    color: red;
+    
+}
+.card{
+    transition: transform 0.3s;
+    border-radius: 10px;
+}
+.card:hover{
+    transform: translateY(-20px);
+    transition: transform 0.3s;
+    background: linear-gradient(45deg,#b95ce4,#4f29cd);
+    cursor: pointer;
+}
+#course > div > div > div:nth-child(2) > div > div > div > div > div.join.cursor.mt-4.mb-4.text-center{
+    background-color: red;
+    
+}
+#course > div > div > div:nth-child(1) > div > div > div > div > div.join.cursor.mt-4.mb-4.text-center{
+    background-color: red;
+}
+#course > div > div > div:nth-child(3) > div > div > div > div > div.join.cursor.mt-4.mb-4.text-center{
+    background-color: red;
+}
+.star{
+    color: yellow;
+}
+.cost span{
+    color:black;
+    font-weight: bold;
+    font-size: 1rem;
+}
+.address{
+    color: turquoise;
+}
+html{
+    scroll-behavior: smooth;
+}
+.content{
+    color: turquoise;
+}
+.navbar{
+    position: sticky;
+}
+.form{
+    
+    padding: 30px;
+    box-shadow: 2px 2px 5px rgba(0, 0,0, .2),
+                   -2px -2px 5px rgba(0, 0,0, .5);
+                   border-radius: 30px;
+}
+#navbar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.c6{
+    padding-top:20px;
+}
+.nav-link{
+    
+    margin: 5px;
+}
+.nav-link:hover{
+      border-bottom: 2px solid turquoise;
+      transition: .1s;
+      padding: 10px;
+}
+
+
+
+
